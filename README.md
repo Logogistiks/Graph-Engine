@@ -1,5 +1,5 @@
 # Graph Engine
-Implementation of management and visualisation of directed multigraphs permitting loops
+Implementation of management and visualisation of directed graphs permitting loops
 
 ![random](/media/random.png)
 
